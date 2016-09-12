@@ -134,4 +134,4 @@ The guts of module are using: `LWP::UserAgent`, `JSON`, `Digest::SHA1`.
 Copyright (c) 2013, OVH SAS.
 All rights reserved.
 
-This library is distributed under the terms of `license.txt`.
+This library is distributed under the terms of `LICENSE`.
