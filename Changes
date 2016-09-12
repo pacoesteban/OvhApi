@@ -2,6 +2,8 @@ Revision history for Perl extension OvhApi
 
 {{$NEXT}}
 
+0.2 2016-09-12T21:28:00Z
+
     - first CPAN release, hopefully.
     - updated dependencies.
 
