@@ -193,7 +193,7 @@ The guts of module are using: C<JSON>.
 Copyright (c) 2013, OVH SAS.
 All rights reserved.
 
-This library is distributed under the terms of C<license.txt>.
+This library is distributed under the terms of C<LICENSE>.
 
 =cut
 

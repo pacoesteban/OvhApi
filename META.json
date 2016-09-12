@@ -6,7 +6,7 @@
    "dynamic_config" : 0,
    "generated_by" : "Minilla/v3.0.4, CPAN::Meta::Converter version 2.150005",
    "license" : [
-      "unknown"
+      "bsd"
    ],
    "meta-spec" : {
       "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
@@ -52,6 +52,20 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/pacoesteban/OvhApi/issues"
+      },
+      "homepage" : "https://github.com/pacoesteban/OvhApi",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/pacoesteban/OvhApi.git",
+         "web" : "https://github.com/pacoesteban/OvhApi"
+      }
+   },
    "version" : "1",
+   "x_contributors" : [
+      "Paco Esteban <paco@onna.be>"
+   ],
    "x_serialization_backend" : "JSON::PP version 2.27300"
 }
