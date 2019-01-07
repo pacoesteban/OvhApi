@@ -12,7 +12,7 @@ use Carp            qw{ carp croak };
 use List::Util      'first';
 use LWP::UserAgent  ();
 use JSON            ();
-use Digest::SHA1    'sha1_hex';
+use Digest::SHA     'sha1_hex';
 
 
 
